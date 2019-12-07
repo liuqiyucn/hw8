@@ -1,0 +1,33 @@
+Initial Symbol Table:
+Tree 1:
+occupancy is 0 elements.
+Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  Please enter UCSD student name to insert:  Please enter UCSD student number:  Please enter a command ((i)nsert, (l)ookup, (r)emove, (w)rite):  
+Final Symbol Table:
+Tree 1:
+occupancy is 26 elements.
+at height:  :1 with balance:  -1  name:  a with studentnum:  1
+at height:  :0 with balance:  0  name:  b with studentnum:  1
+at height:  :4 with balance:  -2  name:  c with studentnum:  1
+at height:  :0 with balance:  0  name:  d with studentnum:  1
+at height:  :3 with balance:  -2  name:  e with studentnum:  1
+at height:  :2 with balance:  -2  name:  f with studentnum:  1
+at height:  :1 with balance:  -1  name:  g with studentnum:  1
+at height:  :0 with balance:  0  name:  h with studentnum:  1
+at height:  :6 with balance:  -1  name:  i with studentnum:  1
+at height:  :0 with balance:  0  name:  j with studentnum:  1
+at height:  :3 with balance:  -2  name:  k with studentnum:  1
+at height:  :2 with balance:  -2  name:  l with studentnum:  1
+at height:  :1 with balance:  -1  name:  m with studentnum:  1
+at height:  :0 with balance:  0  name:  n with studentnum:  1
+at height:  :5 with balance:  -1  name:  o with studentnum:  1
+at height:  :2 with balance:  -2  name:  p with studentnum:  1
+at height:  :1 with balance:  -1  name:  q with studentnum:  1
+at height:  :0 with balance:  0  name:  r with studentnum:  1
+at height:  :4 with balance:  -1  name:  s with studentnum:  1
+at height:  :1 with balance:  -1  name:  t with studentnum:  1
+at height:  :0 with balance:  0  name:  u with studentnum:  1
+at height:  :3 with balance:  -1  name:  v with studentnum:  1
+at height:  :0 with balance:  0  name:  w with studentnum:  1
+at height:  :2 with balance:  -1  name:  x with studentnum:  1
+at height:  :1 with balance:  -1  name:  y with studentnum:  1
+at height:  :0 with balance:  0  name:  z with studentnum:  1
